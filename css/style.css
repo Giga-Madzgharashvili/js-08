@@ -56,7 +56,7 @@
     position: fixed;
     right: 50px;
     bottom: 50px;
-    display: flex;
+    cursor: pointer;
 
 }
 #posttitle{
